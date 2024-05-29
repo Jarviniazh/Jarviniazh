@@ -1,5 +1,13 @@
 ### Hi there 👋 
 ## I am currently in the process of uploading all my academic programming projects from last year to GitHub.
+- 🌱 I’m currently learning C++, JavaScript, SQL, Data Structure and Algorithms, Python, UML, Azure <br>
+- 🔭 I’m currently working on courses about: Advanced C++, UML, Project Management, Web Programming Tools And Frameworks, Advanced Database Services<br>
+<br>
+
+
+![](https://github-readme-stats.vercel.app/api?username=Jarviniazh)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarviniazh&layout=compact)
+
 
 <!--
 **Jarviniazh/Jarviniazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C++, JavaScript, SQL, Data Structure and Algorithms <br>
-- 🔭 I’m currently working on courses about: Advanced C++, UML, Project Management, Web Programming Tools And Frameworks, Advanced Database Services<br>
-<br>
-![](https://github-readme-stats.vercel.app/api?username=Jarviniazh)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarviniazh&layout=compact)
