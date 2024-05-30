@@ -5,8 +5,8 @@
 <br>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Jarviniazh)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarviniazh&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=Jarviniazh)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarviniazh&layout=donut-vertical)](https://github.com/Jarviniazh/github-readme-stats)
 
 
 <!--
